@@ -1,0 +1,2 @@
+#Timeline Setup
+summon armor_stand ~ ~5 ~ {Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,NoBasePlate:1b,PersistenceRequired:1b,Tags:["timeline"],DisabledSlots:4144959,ArmorItems:[{},{},{},{id:"minecraft:beacon",Count:1b,tag:{BlockEntityTag:{Lock:"lock",Levels:0}}}]}

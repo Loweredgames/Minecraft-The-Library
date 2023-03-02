@@ -1,0 +1,5 @@
+#Vestiti Default
+item replace entity @a armor.head with minecraft:player_head{display:{Name:'{"text":"Default","color":"white","bold":true}',Lore:['{"text":"...."}']},HideFlags:37,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1
+item replace entity @a armor.chest with minecraft:leather_chestplate{display:{Name:'{"text":"Default","color":"white","bold":true}',Lore:['{"text":"...."}']},HideFlags:37,Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1
+item replace entity @a armor.legs with minecraft:leather_leggings{display:{Name:'{"text":"Default","color":"white","bold":true}',Lore:['{"text":"...."}']},HideFlags:37,Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1
+item replace entity @a armor.feet with minecraft:leather_boots{display:{Name:'{"text":"Default","color":"white","bold":true}',Lore:['{"text":"...."}']},HideFlags:37,Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1

@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:barrier"
+		},
+		"title": {
+			"translate": "advancements.husbandry.root.title"
+		},
+		"description": {
+			"translate": "advancements.husbandry.root.description"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true,
+		"background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png"
+	},
+	"parent": "minecraft:advancement_locked",
+	"criteria": {
+		"root": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+}

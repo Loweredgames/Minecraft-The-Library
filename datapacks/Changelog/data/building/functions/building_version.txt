@@ -1,0 +1,16 @@
+
+Name: The Library
+
+Edition: JAVA EDITION
+
+Release:JE-1.19.2-The_Library:BUILDING:06.10.2022a - 1.0.0
+
+Resource_pack: TRUE
+
+Data_pack: TRUE
+
+Github: https://github.com/Lorenzo0310200/Minecraft-The-Library
+
+Github_Tag: 9a
+
+Website:https://mc-the-library-tool-changelog.blogspot.com/
